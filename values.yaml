@@ -3,4 +3,4 @@ image:
 
 name: kundensystem-hans
 
-replicas: 2
+replicas: 5
