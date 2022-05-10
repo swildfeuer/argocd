@@ -1,5 +1,5 @@
 image:
-  repository: nginx:1.20
+  repository: nginx
 
 name: my-nginx
 
