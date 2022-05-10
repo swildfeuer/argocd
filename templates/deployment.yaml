@@ -17,5 +17,3 @@ spec:
         image: {{ .Values.image.repository }}
         ports:
         - containerPort: 80
-      - name: hello-world-container
-        image: nodejs
