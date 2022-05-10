@@ -3,4 +3,4 @@ image:
 
 name: my-nginx
 
-replicas: 1
+replicas: 5
