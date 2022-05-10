@@ -3,4 +3,4 @@ image:
 
 name: kundensystem-1
 
-replicas: 5
+replicas: 1
