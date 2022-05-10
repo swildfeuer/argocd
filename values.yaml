@@ -1,6 +1,6 @@
 image:
   repository: nginx
 
-name: kundensystem-hans
+name: kundensystem-1
 
 replicas: 5
