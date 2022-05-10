@@ -1,6 +1,6 @@
 image:
   repository: nginx
 
-name: kundensystem-1
+name: my-nginx
 
-replicas: 5
+replicas: 1
