@@ -1,5 +1,5 @@
 image:
-  repository: hello-world
+  repository: nginx
 
 name: my-nginx
 
